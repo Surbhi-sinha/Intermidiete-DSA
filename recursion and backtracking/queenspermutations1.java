@@ -1,5 +1,5 @@
 import java.io.*;
-import java.util.*;
+
 //Queens Combinations - 2d As 2d - Box Chooses
 public class queenspermutations1 {
     public static void queensPermutations(int qpsf, int tq, int[][] chess){

@@ -1,4 +1,4 @@
-import java.util.*;
+
 import java.io.*;
 
 public class queensCombiantions2Das1D {

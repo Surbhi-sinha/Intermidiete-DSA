@@ -1,5 +1,5 @@
 import java.io.*;
-import java.util.*;
+
 
 public class NQueensPermutations2Das1D {
     public static boolean IsQueenSafe(int[][] chess, int row, int col) {

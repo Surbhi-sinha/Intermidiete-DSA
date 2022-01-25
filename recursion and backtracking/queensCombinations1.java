@@ -1,5 +1,5 @@
 import java.io.*;
-import java.util.*;
+
 
 public class queensCombinations1 {
     public static void queensCombinations(int qpsf, int tq, int row, int col, String asf){
