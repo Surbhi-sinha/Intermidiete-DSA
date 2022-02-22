@@ -14,7 +14,7 @@ public class allRepeatingTHRICExcept1 {
   }
 
   public static void solution(int[] arr){
-    int tn = Integer.MAX_VALUE ,tnp1 = 0 , tnp2 = 0;
+    int tn = -1 ,tnp1 = 0 , tnp2 = 0;
     for(int i = 0 ; i< arr.length ; i++){
         int cwtn = tn & arr[i];
         int cwtnp1 = tnp1& arr[i];
